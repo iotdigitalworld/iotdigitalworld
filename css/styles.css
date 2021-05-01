@@ -103,15 +103,16 @@ p {
 
 
 /* changes start */
-.professor{
-  margin-left: 200px;
-}
+
 .text-muted-center{
   text-align: justify;
   text-justify: inter-word;
 }
 
 @media all and (min-width: 992px) {
+  .professor{
+    margin-left: 200px;
+  }
 	.navbar .nav-item .dropdown-menu{ display: none; }
 	/* .navbar .nav-item:hover .nav-link{ 
     background-color: #212529;
