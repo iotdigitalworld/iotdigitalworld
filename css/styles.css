@@ -103,7 +103,9 @@ p {
 
 
 /* changes start */
-
+.professor{
+  margin-left: 200px;
+}
 .text-muted-center{
   text-align: justify;
   text-justify: inter-word;
